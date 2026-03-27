@@ -14,7 +14,7 @@ en:
       locality: City
       locality_placeholder: San Francisco
       none: None
-      postal_code: ZIP/Postal code
+      postal_code: ZIP/Postal Code
       postal_code_placeholder: '94105'
       region: State/Province
       region_placeholder: CA

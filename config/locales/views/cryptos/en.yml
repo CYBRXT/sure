@@ -5,8 +5,8 @@ en:
       edit: Edit %{account}
     form:
       subtype_label: Account type
-      subtype_prompt: Select type...
-      subtype_none: Not specified
+      subtype_prompt: Select account type
+      subtype_none: None
       tax_treatment_label: Tax Treatment
       tax_treatment_hint: Most cryptocurrency is held in taxable accounts. Select a different option if held in a tax-advantaged account like a self-directed IRA.
     new:
@@ -14,7 +14,7 @@ en:
     subtypes:
       wallet:
         short: Wallet
-        long: Crypto Wallet
+        long:  Wallet
       exchange:
         short: Exchange
-        long: Crypto Exchange
+        long: Exchange
